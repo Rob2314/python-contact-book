@@ -8,6 +8,6 @@ Simple contact book that holds a phone number and email. Able to add,remove and 
 * Add ability to edit number/email/name
 * Add ability to group contacts together, label them and view them.
 * Add ability to search by number and email
-* Add birthday
+* Add birthdays to contacts
 * Implement a GUI.
 
