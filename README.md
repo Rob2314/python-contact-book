@@ -10,4 +10,4 @@ Simple contact book that holds a phone number and email. Able to add,remove and 
 * Add ability to search by number and email
 * Add birthdays to contacts
 * Implement a GUI.
-
+* Add clearer comments for better readability.
